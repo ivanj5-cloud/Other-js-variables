@@ -1,0 +1,3 @@
+function() {
+return performance.navigation.type == 0 ? false : true  
+}
